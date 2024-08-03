@@ -28,7 +28,7 @@ This project presents a comprehensive Sales Data Analysis for AtliQ Hardware Com
 
 ## Dashboard Link
 
-[PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/74a360c8-d301-424a-afc0-45a94f41ea7b?ctid=12acd680-7586-470c-9e9d-8755396a6743&pbi_source=linkShare)
+[PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/240877e1-81cf-405d-b92e-bb5ddf33255f?ctid=28c91f10-5f30-4e54-8350-8d6f3863b678&pbi_source=linkShare)
 
 ### DashBoard
 
